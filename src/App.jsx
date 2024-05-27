@@ -125,6 +125,8 @@ const App = () => {
             even one very small factor. For example 14266523201 (= 7 *
             2038074743).
             <br />
+            T.C => O(sqrt(N))
+            <br />
             In such cases, the perfomance advantage of the probabilistic
             algorithm is not apparent.
           </li>
