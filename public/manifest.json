@@ -1,0 +1,8 @@
+{
+  "short_name": "Primality Test",
+  "name": "Deterministic vs Probabilistic Primality Test",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
