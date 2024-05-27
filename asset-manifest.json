@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/prime_algorithms/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/prime_algorithms/static/js/main.407060a9.chunk.js",
+    "main.js.map": "/prime_algorithms/static/js/main.407060a9.chunk.js.map",
+    "runtime-main.js": "/prime_algorithms/static/js/runtime-main.389a0f51.js",
+    "runtime-main.js.map": "/prime_algorithms/static/js/runtime-main.389a0f51.js.map",
+    "static/js/2.644a093a.chunk.js": "/prime_algorithms/static/js/2.644a093a.chunk.js",
+    "static/js/2.644a093a.chunk.js.map": "/prime_algorithms/static/js/2.644a093a.chunk.js.map",
+    "index.html": "/prime_algorithms/index.html",
+    "precache-manifest.dc1ec59d9cd5b9f4eb2253a4a307b522.js": "/prime_algorithms/precache-manifest.dc1ec59d9cd5b9f4eb2253a4a307b522.js",
+    "service-worker.js": "/prime_algorithms/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/prime_algorithms/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.644a093a.chunk.js.LICENSE.txt": "/prime_algorithms/static/js/2.644a093a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.389a0f51.js",
+    "static/js/2.644a093a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.407060a9.chunk.js"
+  ]
+}
