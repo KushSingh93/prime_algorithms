@@ -121,8 +121,8 @@ const App = () => {
         <b class="ml-4">Notes.</b>
         <ol>
           <li>
-            The deterministic test will finish very fast if the given number has
-            even one very small factor. For example 14266523201 (= 7 *
+            The deterministic test will finish very fast even if the given number has
+            one very small factor. For example 14266523201 (= 7 *
             2038074743).
             <br />
             T.C => O(sqrt(N))
